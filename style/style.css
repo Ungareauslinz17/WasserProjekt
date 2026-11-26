@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: face;
-    src: url(./);
+    font-family: 'QuicksandTitle';
+    src: url(./font/static/Quicksand-Bold);
 }
 
 * {
@@ -13,4 +13,9 @@
     margin: 0;
     padding: 0;
     
+}
+
+#title {
+    font-family: 'QuicksandTitle';
+    font-size: 4rem;
 }
