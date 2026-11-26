@@ -1,0 +1,10 @@
+/* Root */
+
+:root {
+    --primaryColor: rgb(86, 86, 255);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
