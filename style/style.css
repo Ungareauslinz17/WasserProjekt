@@ -1,10 +1,16 @@
 /* Root */
-
 :root {
-    --primaryColor: rgb(86, 86, 255);
+    --primaryColor: rgb(18, 81, 132);
+}
+
+@font-face {
+    font-family: face;
+    src: url(./);
 }
 
 * {
     box-sizing: border-box;
     margin: 0;
+    padding: 0;
+    
 }
